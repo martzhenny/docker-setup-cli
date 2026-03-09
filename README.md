@@ -26,3 +26,8 @@ docker-setup-cli [options]
 If you encounter any issues or have questions, please [open an issue](../../issues).
 
 For general discussions, feel free to start a discussion in the [Discussions](../../discussions) tab.
+
+## Future Plans
+- Add support for Docker Compose
+- Implement user-friendly prompts for configuration
+- Create detailed documentation for advanced usage
