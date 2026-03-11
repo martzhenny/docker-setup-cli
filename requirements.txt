@@ -1,0 +1,8 @@
+# Requirements
+
+# Below are the required packages for this project:
+docker
+npm
+
+# Install the required packages using the command:
+# npm install -g docker-setup-cli
